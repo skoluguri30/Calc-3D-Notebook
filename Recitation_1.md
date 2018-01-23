@@ -2,6 +2,18 @@
 
 This recitation talks about logistics stuff and basic geometric shapes in three dimension space.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Logistics](#logistics)
+- [Basics](#basics)
+- [Basic Shapes in 3D](#basic-shapes-in-3d)
+- [Vectors](#vectors)
+  - [Change of Basis](#change-of-basis)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Logistics
 
 TA office: Wean 7209
