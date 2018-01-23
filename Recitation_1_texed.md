@@ -1,8 +1,6 @@
-<head>
 <style>
 .acc {color: red}
 </style>
-</head>
 
 # Recitation 1
 
