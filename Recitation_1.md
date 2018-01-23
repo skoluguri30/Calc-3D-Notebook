@@ -16,14 +16,13 @@ This recitation talks about logistics stuff and basic geometric shapes in three 
 
 ## Logistics
 
-TA office: Wean 7209
-E-mail: Iganedi@(usual stuff)
-Office hour: Mondays 3:30-5:30
+TA office: Wean 7209 <br />
+E-mail: Iganedi@(usual stuff) <br />
+Office hour: Mondays 3:30-5:30 <br />
 
 ## Basics
 
-In three dimensions, we care about functions of three variables, i.e. $f(x,y)=z$
-
+In three dimensions, we care about functions of three variables, i.e. $f(x,y)=z$ <br />
 We can think of 3D surfaces as 2D subspaces.
 
 ## Basic Shapes in 3D
