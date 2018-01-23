@@ -1,6 +1,10 @@
+<style>
+.acc {color: red}
+</style>
+
 # Recitation 1
 
-This recitation talks about logistics stuff and basic geometric shapes in three dimension space. <br />
+This recitation talks about <span class='acc'>logistics</span> stuff and basic geometric shapes in three dimension space. <br />
 Tuesday 23 January 2018
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
