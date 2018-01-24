@@ -68,6 +68,6 @@ Consider vector <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs
 
 > Since the new basis is orthogonal, we can just project the original vector onto the new basis. We use dot products for the projections.
 
-<p align="center"><img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/47a44fdb40c516a9837f5ca310e1f0c9.svg?invert_in_darkmode" align=middle width=101.708475pt height=21.104985pt/></p>
-<p align="center"><img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/be30ec3f3df8ed29f84a448d898d9904.svg?invert_in_darkmode" align=middle width=88.922955pt height=21.104985pt/></p>
+<p align="center"><img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/dfcced01482143b52f4d1feca86ec4ce.svg?invert_in_darkmode" align=middle width=71.296665pt height=24.6576pt/></p>
+<p align="center"><img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/69b4ffdb36b91f20a5ecf3b61369189a.svg?invert_in_darkmode" align=middle width=58.511145pt height=24.6576pt/></p>
 
