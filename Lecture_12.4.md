@@ -22,3 +22,37 @@ Now consider this "determinant":
 
 > Fact: The cross product of two vectors is a vector perpendicular to both vectors. We can prove this using what we know about the dot product of two orthogonal vectors.
 
+### Determinant the Direction of the Product Vector
+
+> Note: We know the product vector is perpendicular to the original two vectors. Consider the original vectors defining a plane, the cross product is perpendicular to the plane. But which direction?
+
+We use the Right Hand Rule to determine the direction.
+- Take your right hand four fingers pointing to the direction of $\vec{u}$
+- Curl your hand into the direction of $\vec{v}$
+- Your thumb points to the direction of $\vec{u}\times\vec{v}$
+
+> Corollary: The cross product is NOT commutative. In fact, $\vec{u}\times\vec{v}=-\vec{v}\times\vec{u}$. The two products are of opposite directions.
+
+### Determinant the Magnitude of the Cross Product
+
+$$|\vec{u}\times\vec{v}|=|\vec{u}||\vec{v}|\sin{\theta}$$
+
+> Corollary: If $\vec{u}\times\vec{v}=\vec{0}$, then by the equation above we know $\sin{\theta}=0$.
+
+Therefore, if the cross product of two vectors are the zero vector, the two vectors are __parallel__.
+
+> Note: You can use this formula to obtain the angle between two vectors. Generally, we just use the formula for dot product, unless this computation is simpler.
+
+## Properties
+
+- Anti-Commutativity (no commutativity)
+- Associativity of scalar
+- Distributivity of left associative vector
+- Distributivity of right associative vector
+- $\vec{u}\cdot(\vec{v}\times\vec{w})=(\vec{u}\times\vec{v})\cdot\vec{w}$
+- No associativity, but $(\vec{u}\times\vec{v})\times\vec{w}=(\vec{u}\cdot\vec{w})\vec{v}-(\vec{u}\cdot\vec{v})\vec{w}$
+
+### Theorem (parallelogram)
+
+The magnitude of the cross product of two vectors is equal to the area of the parallelogram determined by the two vectors.
+
