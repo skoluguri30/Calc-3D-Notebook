@@ -2,6 +2,19 @@
 
 Wednesday 24 January 2018
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Definition](#definition)
+- [Computation](#computation)
+  - [Determinant the Direction of the Product Vector](#determinant-the-direction-of-the-product-vector)
+  - [Determinant the Magnitude of the Cross Product](#determinant-the-magnitude-of-the-cross-product)
+- [Properties](#properties)
+  - [Theorem (parallelogram)](#theorem-parallelogram)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Definition
 
 Given two 3D vectors <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/c11ac14ac5b08aac93d12d395ee4f161.svg?invert_in_darkmode" align=middle width=250.29708pt height=23.48874pt/>, the cross product of <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/62e05a6a03a68c013fd2bcaf8595e812.svg?invert_in_darkmode" align=middle width=10.74777pt height=23.48874pt/> and <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/cd74c822d31d457e590f28706c11499d.svg?invert_in_darkmode" align=middle width=10.74777pt height=23.48874pt/>, denoted by <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/1ce3695d153d9cca81899df04d04a5d3.svg?invert_in_darkmode" align=middle width=39.822915pt height=23.48874pt/>, is defined as <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/9cfb492feecbf1ca87cff92e4aef138f.svg?invert_in_darkmode" align=middle width=292.546155pt height=22.83138pt/>.
