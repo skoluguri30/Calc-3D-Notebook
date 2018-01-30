@@ -10,6 +10,7 @@ The table below is ordered chronologically.
 | ---------------- | ---- | ---- | ------- |
 | Recitation 1 | [###](Recitation_1_texed.md) | Geometric Intuitions in 3D Space | 23 January 2018 |
 | Lecture 12.4 | [###](Lecture_12.4_texed.md) | The Cross Product of 3D Vectors | 24 January 2018 |
+| Recitation 2 | [###](Recitation_2_texed.md) | Dot Products & Cross Products Review | 30 January 2018 |
 
 ## Attributions
 
