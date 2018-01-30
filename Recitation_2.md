@@ -36,3 +36,13 @@ Consider the area of parallelogram projected to <img src="https://rawgit.com/SAM
 
 > We have two vectors <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/046c75231fe47355aff9b3d83818db7e.svg?invert_in_darkmode" align=middle width=279.587055pt height=31.79913pt/>. Their projections onto <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/65f1b48fb5f326a680b0f7393b9d8b6d.svg?invert_in_darkmode" align=middle width=18.044235pt height=14.15535pt/>-plane are simply <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/6b72e652da41d12a49465182e8b35901.svg?invert_in_darkmode" align=middle width=136.986135pt height=21.18732pt/>. Then append 0 to the third coordinates, and do the normal cross product.
 
+Consider the area of parallelogram projected to a plane defined by points <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/e72c9a3c056bf27a1fedb4997e5e3da9.svg?invert_in_darkmode" align=middle width=183.562005pt height=24.6576pt/>.
+
+> Observe that the first two points define two vectors that span the plane. Since observe that these vectors are further *perpendicular*, we can then just do the normal change of basis.
+>
+> Suppose vectors <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/2765cd6cad9617ce2703953943523706.svg?invert_in_darkmode" align=middle width=220.91883pt height=23.48874pt/>.
+>
+> We want to rewrite <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/cb8118300bf962c56a7937a18cfb3dc7.svg?invert_in_darkmode" align=middle width=90.109305pt height=31.79913pt/>.
+>
+> To obtain the coefficients <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode" align=middle width=8.68923pt height=14.15535pt/> and <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/4bdc8d9bcfb35e1c9bfb51fc69687dfc.svg?invert_in_darkmode" align=middle width=7.0548555pt height=22.83138pt/>, <img src="https://rawgit.com/SAMFYB/Calc-3D-Notebook/master/svgs/b97441338b4e2a20e270376e4acf068a.svg?invert_in_darkmode" align=middle width=55.20537pt height=35.30274pt/>.
+
